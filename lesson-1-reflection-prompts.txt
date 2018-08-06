@@ -18,7 +18,7 @@ Multi-file commits are usefull when files are related to eachother.
 So having multi-file commits is an essential feature.
 
 Reflect: what do you want to try using Git for?
-Source code for a simple website/game
+Source code for a simple website/game 
 
 Commands:
 
